@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import './home.scss'
 import MainBanner from './mainBanner/MainBanner'
 import ProductionHouse from '../../components/productionhouse/ProductionHouse'
-import Trending from './trending/trending'
+import Trending from './Trending/trending'
 import Popular from './popular/Popular'
 import TopRated from './topRated/TopRated'
 
