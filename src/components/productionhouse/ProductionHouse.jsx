@@ -9,8 +9,7 @@ import starwarV from '../../assets/videos/star-wars-6bfec285.mp4'
 import disneyV from '../../assets/videos/disney-dc7d5ffd.mp4'
 import marvelV from '../../assets/videos/marvel-2bc69f97.mp4'
 import nationalGV from '../../assets/videos/national-geographic-50e971d7.mp4'
-import pixarV from '../../assets/Videos/pixar-faceac07.mp4'
-
+import pixarV from '../../assets/videos/pixar-faceac07.mp4'
 
 function ProductionHouse() {
     const productionHouseList=[
