@@ -6,7 +6,7 @@ import ContentWrapper from '../../components/contentWrapper/ContentWrapper';
 import './searchstyle.scss'
 import Spinner from '../../components/spinner/Spinner.jsx'
 import ResultFallback from '../../assets/no-results.png'
-import MovieCard from '../../components/searchMovieCard/movieCard';
+import MovieCard from '../../components/searchMovieCard/MovieCard.jsx';
 
 const SearchReasult = () => {
   const [data, setData] = useState(null);
