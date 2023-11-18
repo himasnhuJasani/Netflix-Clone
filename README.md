@@ -1,6 +1,6 @@
 # Netflix-Clone
 This clone gives you latest movie updates and trailers 
-+# React + Vite
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
